@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New_desktop\\programming\\my c#\\упражнеки\\Телефонная книга\\Телефонная книга\\Телефонная книга.csproj",
+      "projectUniqueName": "D:\\New_desktop\\programming\\my_c#\\упражнеки\\Телефонная_книга\\Телефонная книга\\Телефонная книга.csproj",
       "projectName": "Телефонная книга",
-      "projectPath": "D:\\New_desktop\\programming\\my c#\\упражнеки\\Телефонная книга\\Телефонная книга\\Телефонная книга.csproj",
+      "projectPath": "D:\\New_desktop\\programming\\my_c#\\упражнеки\\Телефонная_книга\\Телефонная книга\\Телефонная книга.csproj",
       "packagesPath": "C:\\Users\\Levbu\\.nuget\\packages\\",
-      "outputPath": "D:\\New_desktop\\programming\\my c#\\упражнеки\\Телефонная книга\\Телефонная книга\\obj\\",
+      "outputPath": "D:\\New_desktop\\programming\\my_c#\\упражнеки\\Телефонная_книга\\Телефонная книга\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Levbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
