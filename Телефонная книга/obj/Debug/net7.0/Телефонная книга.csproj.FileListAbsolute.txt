@@ -1,0 +1,14 @@
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\bin\Debug\net7.0\Телефонная книга.exe
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\bin\Debug\net7.0\Телефонная книга.deps.json
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\bin\Debug\net7.0\Телефонная книга.runtimeconfig.json
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\bin\Debug\net7.0\Телефонная книга.dll
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\bin\Debug\net7.0\Телефонная книга.pdb
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\Телефонная книга.GeneratedMSBuildEditorConfig.editorconfig
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\Телефонная книга.AssemblyInfoInputs.cache
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\Телефонная книга.AssemblyInfo.cs
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\Телефонная книга.csproj.CoreCompileInputs.cache
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\Телефонная книга.dll
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\refint\Телефонная книга.dll
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\Телефонная книга.pdb
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\Телефонная книга.genruntimeconfig.cache
+D:\New_desktop\programming\my c#\упражнеки\Телефонная книга\Телефонная книга\obj\Debug\net7.0\ref\Телефонная книга.dll
