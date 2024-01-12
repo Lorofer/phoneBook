@@ -1,5 +1,3 @@
 ﻿using Телефонная_книга;
 
-while (true) {
-    Menu.displayMenu();
-}
+Menu.displayMenu();
