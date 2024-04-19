@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|d:\\new_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|solutionrelative:\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|d:\\new_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|solutionrelative:\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|d:\\new_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|solutionrelative:\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|d:\\new_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D75BC0A-A8BF-4876-8F82-FB8F56AA39ED}|\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430.csproj|solutionrelative:\u0442\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Contact.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Contact.cs",
+              "ToolTip": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Contact.cs",
+              "RelativeToolTip": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T16:55:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\PhoneBook.cs",
+              "ToolTip": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\PhoneBook.cs",
+              "RelativeToolTip": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\PhoneBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T16:55:12.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Program.cs",
+              "ToolTip": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Program.cs",
+              "RelativeToolTip": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T16:55:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Menu.cs",
+              "RelativeDocumentMoniker": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Menu.cs",
+              "ToolTip": "D:\\New_desktop\\programming\\my_c#\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043A\u0438\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F_\u043A\u043D\u0438\u0433\u0430\\\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Menu.cs",
+              "RelativeToolTip": "\u0422\u0435\u043B\u0435\u0444\u043E\u043D\u043D\u0430\u044F \u043A\u043D\u0438\u0433\u0430\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T17:24:43.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

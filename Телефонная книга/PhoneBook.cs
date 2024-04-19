@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace Телефонная_книга {
+namespace PhoneBook {
     internal class PhoneBook {
         static private List<Contact> contacts = new List<Contact>();
 

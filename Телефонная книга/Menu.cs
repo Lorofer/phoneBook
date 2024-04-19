@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Телефонная_книга;
+using PhoneBook;
 using static System.Collections.Specialized.BitVector32;
 
-namespace Телефонная_книга {
+namespace PhoneBook {
     internal class Menu {
         public static void displayMenu()
         {
@@ -15,7 +15,7 @@ namespace Телефонная_книга {
 
             while (true)
             {
-                Console.Clear();
+                
                 Console.WriteLine("Главное меню\n");
                 Console.WriteLine("Выберите действие:\nadd - добавить контакт; view - посмотреть в книгу; exit - выйти");
                 action = Console.ReadLine();
@@ -33,6 +33,7 @@ namespace Телефонная_книга {
                         return;
 
                     default:
+                        Console.Clear();
                         Console.WriteLine("Ошибка ввода! Повторите ввод:");
                         break;
                 }
